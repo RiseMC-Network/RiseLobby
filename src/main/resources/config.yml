@@ -1,0 +1,15 @@
+details:
+  author: Lotho
+  version: 1.0
+
+server:
+  type: "LOBBY"
+  worldName: "hubLobby"
+  worldSpawn: "-33.5, 58, 0.5, -90, 0"
+
+messages:
+  join:
+    - ''
+    - '          &7Welcome to &6&lRise&e&lMC &7Lobby!'
+    - '    &7You are currently playing on &6%server%&7.'
+    - ''

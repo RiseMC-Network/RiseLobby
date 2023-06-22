@@ -1,0 +1,6 @@
+name: RiseLobby
+version: '${project.version}'
+main: xyz.lotho.riselobby.RiseLobby
+api-version: '1.20'
+
+depend: [RiseCore]
